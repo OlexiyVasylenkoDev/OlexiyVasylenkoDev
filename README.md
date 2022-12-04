@@ -13,6 +13,8 @@
 <a href="mailto:alexeyvasilenkoo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olexiy-vasylenko-47aa44217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlexiyVasylenkoDev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **OlexiyVasylenkoDev/OlexiyVasylenkoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
