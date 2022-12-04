@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a class="mx-2" href="https://www.linkedin.com/in/olexiy-vasylenko-47aa44217/" target="_blank"><i class="fab fa-linkedin"></i></a>
 <!--
 **OlexiyVasylenkoDev/OlexiyVasylenkoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
