@@ -6,6 +6,8 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=FFFFFF)
 <!--
 **OlexiyVasylenkoDev/OlexiyVasylenkoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
