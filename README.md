@@ -23,30 +23,17 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<details>
-  <summary><h3>⚙️GitHub Analytics</h3></summary>
+### ⚙️GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OlexiyVasylenkoDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OlexiyVasylenkoDev&layout=compact&langs_count=8&theme=algolia"/>
  </p>
  </details>
   
+### 📝Codewars
+
 ![image](https://www.codewars.com/users/OlexiyVasylenkoDev/badges/large)
 
 ## Contact me:
 <a href="mailto:alexeyvasilenkoo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olexiy-vasylenko-47aa44217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<!--
-**OlexiyVasylenkoDev/OlexiyVasylenkoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
