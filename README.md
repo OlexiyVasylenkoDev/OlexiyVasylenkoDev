@@ -35,5 +35,7 @@
 ![image](https://www.codewars.com/users/OlexiyVasylenkoDev/badges/large)
 
 ## Contact me:
-<a href="mailto:alexeyvasilenkoo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/olexiy-vasylenko-47aa44217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<p>
+  <a href="mailto:alexeyvasilenkoo@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="https://www.linkedin.com/in/olexiy-vasylenko-47aa44217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
