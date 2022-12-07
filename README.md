@@ -2,7 +2,6 @@
 
 <p>Welcome to my Github <br>
   I am Olexiy, a Python Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/><b> Odesa, Ukraine</b></p>
-  My main sphere of interest is web-development!
 
 ## My main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -36,6 +35,6 @@
 
 ## Contact me:
 <p>
-  <a href="mailto:alexeyvasilenkoo@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="mailto:alexeyvasilenkoo@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/olexiy-vasylenko-47aa44217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
