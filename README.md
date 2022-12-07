@@ -23,13 +23,14 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
-
+<details>
+  <summary><h3>⚙️GitHub Analytics</h3></summary>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OlexiyVasylenkoDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OlexiyVasylenkoDev&layout=compact&langs_count=8&theme=algolia"/>
  </p>
- 
+ </details>
+  
 ![image](https://www.codewars.com/users/OlexiyVasylenkoDev/badges/large)
 
 ## Contact me:
